@@ -17,6 +17,6 @@ jobs:
       with:
         type: git
         app: mufilterbot1
-        environment: mufilte
+        environment: muf
         username: ${{ secrets.APTIBLE_USERNAME }}
         password: ${{ secrets.APTIBLE_PASSWORD }}
